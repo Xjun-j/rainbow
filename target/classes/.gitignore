@@ -1,0 +1,8 @@
+/applicationContext-security.xml
+/applicationContext.xml
+/com/
+/db.properties
+/es.properties
+/hibernate_spring.xml
+/log4j.properties
+/rainbow.properties
